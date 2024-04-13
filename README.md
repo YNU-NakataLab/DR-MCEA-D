@@ -20,7 +20,7 @@
 ```
 @inproceedings{horaguchi2023high,
   title={{High-Dimensional Expensive Optimization by Classification-based Multiobjective Evolutionary Algorithm with Dimensionality Reduction}},
-  author={Yuma Horaguchi, Masaya Nakata},
+  author={Horaguchi, Yuma and Nakata, Masaya},
   booktitle={2023 62nd Annual Conference of the Society of Instrument and Control Engineers (SICE)},
   pages={1535--1542},
   month={September},
