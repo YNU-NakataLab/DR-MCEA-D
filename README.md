@@ -1,8 +1,8 @@
-# DR-MCEA-D
+# DR-MCEA/D
 
 -This is an open source code of DR-MCEA/D implemented by MATLAB.
 
--You can easily use this code on Evolutionary multi-objective optimization platform ([PlatEMO](https://github.com/BIMK/PlatEMO/releases)) on MATLAB.
+-You can easily use this code on Evolutionary multi-objective optimization platform ([PlatEMO](https://github.com/BIMK/PlatEMO)) on MATLAB.
 
 ## How to run
 
