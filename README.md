@@ -25,7 +25,7 @@
   pages={1535--1542},
   month={September},
   year={2023},
-  publisher={IEEE}
+  publisher={IEEE},
   doi={10.23919/SICE59929.2023.10354103}
 }
 ```
